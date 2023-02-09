@@ -7,3 +7,4 @@
 
 برای شروع فایل README.txt رو بخونی
 I add this line to file.
+This is just for test
