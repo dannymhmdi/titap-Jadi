@@ -6,5 +6,3 @@ iراز تی‌تاپ
 [فهرست اصلی دستورات اینجا هستن](http://linuxbook.ir/chapters/common_shell_commands.html)
 
 برای شروع فایل README.txt رو بخونی
-I add this line to file.
-I deleted two lines
